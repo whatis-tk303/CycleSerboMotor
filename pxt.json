@@ -1,5 +1,5 @@
 {
-    "name": "ButtonTest",
+    "name": "ServoCar",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -15,6 +15,10 @@
     "testFiles": [
         "test.ts"
     ],
+    "targetVersions": {
+        "target": "4.0.17",
+        "targetId": "microbit"
+    },
     "supportedTargets": [
         "microbit"
     ],
